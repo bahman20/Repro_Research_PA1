@@ -1,6 +1,10 @@
 ---
 title: "Reproducible Research Course Project 1"
 author: "Bahman S."
+output: 
+  html_document: 
+    self_contained: no
+
 ---
 
 ## Introduction
